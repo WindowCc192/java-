@@ -19,7 +19,7 @@ PC类中调用CPU类和HardDisk类，并分别建立新的属性cpu和HD。
 然后创建show（）函数来展示所获取的信息。*    
 6.最后在Test 创建主方法来为CPU和HardDisk中两个属性赋值，并调用PC类中show（）函数来输出信息。
 ##核心方法
-1.void setName
+void setName
 public String getName
 void setCPU
 void setHardDIsk
@@ -35,3 +35,5 @@ String getSex(String sex)
 public static void showname()
 void setPc(PC pc)
 ## 实验结果
+## 实验感想  
+通过本次实验，我学会并熟悉了如何创建类、方法和构造方法。除此以外，我还学会如何简单使用GitHub和markdown。尝试用markdown编辑。在Java中学习中对构造方法的使用更加灵活：通过定义构造方法可以直接对某些属性初始化或者进行一些操作。
